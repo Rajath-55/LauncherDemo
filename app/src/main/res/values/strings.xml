@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Launcher Demo</string>
+    <string name="example_appwidget_description">Widget Description</string>
+</resources>

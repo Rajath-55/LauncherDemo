@@ -26,7 +26,7 @@
         <TextView
             android:layout_marginStart="16dp"
             android:layout_width="wrap_content"
-            android:text="Chrome"
+            android:text="@string/chrome"
             android:clickable="false"
             android:lines="1"
             android:textSize="12sp"

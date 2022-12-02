@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">Launcher Demo</string>
     <string name="example_appwidget_description">Widget Description</string>
+    <string name="chrome">Chrome</string>
+    <string name="image_drawer">Image Drawer</string>
 </resources>

@@ -87,7 +87,6 @@ public class AppsDrawerAdapter extends RecyclerView.Adapter<AppsDrawerAdapter.Vi
     }
 
 
-
     public static class ViewHolder extends RecyclerView.ViewHolder {
 
         public TextView textView;
